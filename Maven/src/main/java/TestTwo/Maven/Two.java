@@ -43,8 +43,8 @@ public class Two {
 		   
 	  }
 	 
-	 /* @AfterClass
+	  @AfterClass
 	  public void afterClass() {
 	   driver.quit();
-	  }*/
+	  }
 }
